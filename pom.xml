@@ -11,7 +11,7 @@
 	<groupId>com.tomcat</groupId>
 	<artifactId>SpringBootTomcatApplication</artifactId>
 	<version>1.0.0</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>SpringBootTomcatApplication</name>
 	<description>This is application to test war</description>
 
